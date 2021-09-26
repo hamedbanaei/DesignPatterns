@@ -1,4 +1,4 @@
-﻿namespace Singleton
+﻿namespace GenericSingleton
 {
 	public sealed class GenericSingleton<T> where T : class, new()
 	{
