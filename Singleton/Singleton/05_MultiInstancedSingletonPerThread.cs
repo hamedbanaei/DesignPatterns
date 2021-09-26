@@ -1,4 +1,4 @@
-﻿namespace Singleton
+﻿namespace Implementation05_MultiInstancedSingletonPerThread
 {
 	// The Multi-Instanced Singleton
 	// We want each thread has it's own connection...
