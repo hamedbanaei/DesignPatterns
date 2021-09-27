@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamed Banaei
 - 👀 I’m interested in Coding, Mountain Climbing, Playing Chess.
-- 🌱 I’m currently learning Asp.Net Core MVC.
-- 💞️ I’m looking to collaborate on knowledge-sharing.
+- 🌱 I’m currently working on my book about Design Patterns.
+- 💞️ I’m looking to collaborate with developers around the world and knowledge-sharing.
 - 📫 To reach me simply send an email to hamedbanaei1982@gmail.com (feel free dropping me a line ;) )
 - All the codes and examples in this repository (Design Patterns) are free to use for educational, individual and commercial purposes.
 
