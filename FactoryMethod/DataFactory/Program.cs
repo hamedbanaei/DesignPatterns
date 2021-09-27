@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DataFactory
+﻿namespace DataFactory
 {
 	class Program
 	{
@@ -26,7 +24,7 @@ namespace DataFactory
 			}
 			catch (System.Exception ex)
 			{
-				Console.WriteLine(ex.Message);
+				System.Console.WriteLine(ex.Message);
 			}
 		}
 	}
