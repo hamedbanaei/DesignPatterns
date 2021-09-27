@@ -1,0 +1,5 @@
+G:\GitHub\HamedBanaei\DesignPatterns\FactoryMethod\DataFactory\obj\Debug\net5.0\DataFactory.csproj.AssemblyReference.cache
+G:\GitHub\HamedBanaei\DesignPatterns\FactoryMethod\DataFactory\obj\Debug\net5.0\DataFactory.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\HamedBanaei\DesignPatterns\FactoryMethod\DataFactory\obj\Debug\net5.0\DataFactory.AssemblyInfoInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\FactoryMethod\DataFactory\obj\Debug\net5.0\DataFactory.AssemblyInfo.cs
+G:\GitHub\HamedBanaei\DesignPatterns\FactoryMethod\DataFactory\obj\Debug\net5.0\DataFactory.csproj.CoreCompileInputs.cache
