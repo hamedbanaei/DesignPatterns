@@ -1,0 +1,16 @@
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\bin\Debug\net5.0\Strategy.exe
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\bin\Debug\net5.0\Strategy.deps.json
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\bin\Debug\net5.0\Strategy.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\bin\Debug\net5.0\Strategy.pdb
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.pdb
+G:\GitHub\HamedBanaei\DesignPatterns\Strategy\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache

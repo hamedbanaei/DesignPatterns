@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Strategy.csproj",
+      "projectUniqueName": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\Strategy\\Strategy\\Strategy.csproj",
       "projectName": "Strategy",
-      "projectPath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Strategy.csproj",
+      "projectPath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\Strategy\\Strategy\\Strategy.csproj",
       "packagesPath": "C:\\Users\\ha-banaei\\.nuget\\packages\\",
-      "outputPath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\obj\\",
+      "outputPath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\Strategy\\Strategy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
