@@ -40,12 +40,6 @@
 									break;
 								}
 
-							case "OLEDB":
-								{
-									_myProvider = Providers.Oledb;
-									break;
-								}
-
 							case "ORACLE":
 								{
 									_myProvider = Providers.Oracle;
