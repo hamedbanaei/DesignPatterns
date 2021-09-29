@@ -1,0 +1,16 @@
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.exe
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.deps.json
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.json
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.runtimeconfig.dev.json
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.dll
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\net5.0\ref\StrategyPattern.dll
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\bin\Debug\net5.0\StrategyPattern.pdb
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.AssemblyReference.cache
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfoInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.AssemblyInfo.cs
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.csproj.CoreCompileInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.dll
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\ref\StrategyPattern.dll
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.pdb
+G:\GitHub\HamedBanaei\DesignPatterns\StrategyPattern\StrategyPattern\obj\Debug\net5.0\StrategyPattern.genruntimeconfig.cache
