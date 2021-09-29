@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
-      "projectName": "StrategyPattern",
-      "projectPath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+      "projectUniqueName": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Strategy.csproj",
+      "projectName": "Strategy",
+      "projectPath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Strategy.csproj",
       "packagesPath": "C:\\Users\\ha-banaei\\.nuget\\packages\\",
       "outputPath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\obj\\",
       "projectStyle": "PackageReference",

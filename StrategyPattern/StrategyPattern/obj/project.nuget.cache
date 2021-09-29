@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hTSGmnL53Rgozxb164CVbJzKqhZXGLZpE9koLqkOEr7Xga/qrazYDTatJm5LkNnZqnHnrnsK3wPWq5VV/9S15Q==",
+  "dgSpecHash": "weDOrzcpgSOxQIjsTtA1lx2YSCxrbb8rraiLwhthQXlLphbal84NMUw5YMdfIBGXhEG5p6DedVbU0w1nckHYmA==",
   "success": true,
-  "projectFilePath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+  "projectFilePath": "G:\\GitHub\\HamedBanaei\\DesignPatterns\\StrategyPattern\\StrategyPattern\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
