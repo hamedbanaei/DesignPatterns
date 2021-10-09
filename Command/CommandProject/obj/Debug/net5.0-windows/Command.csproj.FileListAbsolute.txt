@@ -1,0 +1,17 @@
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\bin\Debug\net5.0-windows\Command.exe
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\bin\Debug\net5.0-windows\Command.deps.json
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\bin\Debug\net5.0-windows\Command.runtimeconfig.json
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\bin\Debug\net5.0-windows\Command.runtimeconfig.dev.json
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\bin\Debug\net5.0-windows\Command.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\bin\Debug\net5.0-windows\ref\Command.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\bin\Debug\net5.0-windows\Command.pdb
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.CommandPatternSampleForm.resources
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.csproj.GenerateResource.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.GeneratedMSBuildEditorConfig.editorconfig
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.AssemblyInfoInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.AssemblyInfo.cs
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.csproj.CoreCompileInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\ref\Command.dll
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.pdb
+G:\GitHub\HamedBanaei\DesignPatterns\Command\Command\obj\Debug\net5.0-windows\Command.genruntimeconfig.cache
