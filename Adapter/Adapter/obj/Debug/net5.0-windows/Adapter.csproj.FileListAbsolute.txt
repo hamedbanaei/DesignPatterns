@@ -15,5 +15,3 @@ G:\GitHub\HamedBanaei\DesignPatterns\Adapter\Adapter\obj\Debug\net5.0-windows\re
 G:\GitHub\HamedBanaei\DesignPatterns\Adapter\Adapter\obj\Debug\net5.0-windows\Adapter.pdb
 G:\GitHub\HamedBanaei\DesignPatterns\Adapter\Adapter\obj\Debug\net5.0-windows\Adapter.genruntimeconfig.cache
 G:\GitHub\HamedBanaei\DesignPatterns\Adapter\Adapter\obj\Debug\net5.0-windows\AdapterPatternSimpleExample.MainForm.resources
-G:\GitHub\HamedBanaei\DesignPatterns\Adapter\Adapter\obj\Debug\net5.0-windows\Adapter.csproj.AssemblyReference.cache
-G:\GitHub\HamedBanaei\DesignPatterns\Adapter\Adapter\obj\Debug\net5.0-windows\Adapter.ExampleForm.resources
