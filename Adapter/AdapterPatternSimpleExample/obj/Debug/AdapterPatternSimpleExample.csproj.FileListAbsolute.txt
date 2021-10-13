@@ -1,0 +1,10 @@
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\bin\Debug\AdapterPatternSimpleExample.exe.config
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\bin\Debug\AdapterPatternSimpleExample.exe
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\bin\Debug\AdapterPatternSimpleExample.pdb
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\obj\Debug\AdapterPatternSimpleExample.csproj.AssemblyReference.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\obj\Debug\AdapterPatternSimpleExample.MainForm.resources
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\obj\Debug\AdapterPatternSimpleExample.Properties.Resources.resources
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\obj\Debug\AdapterPatternSimpleExample.csproj.GenerateResource.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\obj\Debug\AdapterPatternSimpleExample.csproj.CoreCompileInputs.cache
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\obj\Debug\AdapterPatternSimpleExample.exe
+G:\GitHub\HamedBanaei\DesignPatterns\Adapter\AdapterPatternSimpleExample\obj\Debug\AdapterPatternSimpleExample.pdb
