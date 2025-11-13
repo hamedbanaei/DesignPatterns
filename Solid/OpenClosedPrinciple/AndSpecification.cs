@@ -1,17 +1,17 @@
 ﻿namespace OpenClosedPrinciple;
 
-public class AndSpecification<T> : Abstractions.ISpecification<T>
+public class AndSpecification : Abstractions.ISpecification<OpenClosedPrinciple.Product>
 {
-	private Abstractions.ISpecification<T> First;
-	private Abstractions.ISpecification<T> Second;
+	private Abstractions.ISpecification<Product> First;
+	private Abstractions.ISpecification<Product> Second;
 
-	public AndSpecification(Abstractions.ISpecification<T> first, Abstractions.ISpecification<T> second)
+	public AndSpecification(Abstractions.ISpecification<Product> first, Abstractions.ISpecification<Product> second)
 	{
-		this.First = first;
-		this.Second = second;
+		First = first;
+		Second = second;
 	}
 
-	public bool IsSatisfied(Product p)
+	public bool IsSatisfied(OpenClosedPrinciple.Product p)
 	{
 		return First.IsSatisfied(p) && Second.IsSatisfied(p);
 	}

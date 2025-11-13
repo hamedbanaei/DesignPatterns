@@ -2,5 +2,5 @@
 
 public interface ISpecification<T>
 {
-	bool IsSatisfied(OpenClosedPrinciple.Product p);
+	bool IsSatisfied(T t);
 }

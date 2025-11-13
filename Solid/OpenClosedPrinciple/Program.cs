@@ -1,9 +1,9 @@
 ﻿using Enumerations;
 using OpenClosedPrinciple;
 
-var apple = new Product("Apple", Color.Green, Size.Small);
-var tree = new Product("Tree", Color.Green, Size.Large);
-var house = new Product("House", Color.Blue, Size.Large);
+var apple = new Product("Apple", Color.Green, Size.Small, Enumerations.Type.Natural);
+var tree = new Product("Tree", Color.Green, Size.Large, Enumerations.Type.Natural);
+var house = new Product("House", Color.Blue, Size.Large, Enumerations.Type.Quantom);
 
 Product[] products = { apple, tree, house };
 
@@ -26,8 +26,24 @@ foreach (var p in bf.Filter(products, new SizeSpecification(Size.Large)))
 
 System.Console.WriteLine("Large blue items");
 foreach (var p in bf.Filter(products,
-  new AndSpecification<Product>(new ColorSpecification(Color.Blue), new SizeSpecification(Size.Large)))
+  new AndSpecification(new ColorSpecification(Color.Blue), new SizeSpecification(Size.Large)))
 )
 {
 	System.Console.WriteLine($" - {p.Name} is big and blue");
+}
+
+System.Console.WriteLine("Natural Large items");
+foreach (var p in bf.Filter(products,
+  new AndSpecification(new SizeSpecification(Size.Large), new TypeSpecification(Enumerations.Type.Natural)))
+)
+{
+	System.Console.WriteLine($" - {p.Name} is Natural and Large");
+}
+
+System.Console.WriteLine("Green Small Natural items");
+foreach (var p in bf.Filter(products,
+  new AndSpecification(new SizeSpecification(Size.Large), new TypeSpecification(Enumerations.Type.Natural)))
+)
+{
+	System.Console.WriteLine($" - {p.Name} is Natural and Large");
 }
