@@ -2,16 +2,16 @@
 
 public class Square : Rectangle
 {
-	// Violates LSP
+	//// Violates LSP
 	//public new int Width
 	//{
-	//  set { base.Width = base.Height = value; }
+	//	set { base.Width = base.Height = value; }
 	//}
 
-	// Violates LSP
+	////Violates LSP
 	//public new int Height
-	//{ 
-	//  set { base.Width = base.Height = value; }
+	//{
+	//	set { base.Width = base.Height = value; }
 	//}
 
 	public override int Width
