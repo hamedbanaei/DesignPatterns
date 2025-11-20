@@ -37,15 +37,32 @@
 // Simple Builder
 // ********** ********** ********** ********** **********
 
-System.Console.WriteLine("Ordinary non-fluent Builder is like:");
-// Ordinary non-fluent Builder
-var builder = new SimpleBuilder.HtmlBuilder("ul");
-builder.AddChild("li", "hello");
-builder.AddChild("li", "world");
-System.Console.WriteLine(builder.ToString());
-System.Console.WriteLine(System.Environment.NewLine);
+//System.Console.WriteLine("Ordinary non-fluent Builder is like:");
+//// Ordinary non-fluent Builder
+//var builder = new SimpleBuilder.HtmlBuilder("ul");
+//builder.AddChild("li", "hello");
+//builder.AddChild("li", "world");
+//System.Console.WriteLine(builder.ToString());
+//System.Console.WriteLine(System.Environment.NewLine);
 
 // ********** ********** ********** ********** **********
 // / Simple Builder
 // ********** ********** ********** ********** **********
 
+
+
+// ********** ********** ********** ********** **********
+// Life Without Builder
+// ********** ********** ********** ********** **********
+
+var me = Rgi.Person.New
+        .Called("Hamed")
+        .WorksAsA("CTO")
+        .Born(DateTime.UtcNow)
+        .Build();
+
+Console.WriteLine(me);
+
+// ********** ********** ********** ********** **********
+// Life Without Builder
+// ********** ********** ********** ********** **********
