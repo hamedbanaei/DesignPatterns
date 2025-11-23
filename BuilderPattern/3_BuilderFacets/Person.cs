@@ -28,6 +28,6 @@ public class Person
             $"{nameof(City)}: {City}\r\n" +
             $"{nameof(CompanyName)}: {CompanyName}\r\n" +
             $"{nameof(Position)}: {Position}\r\n" +
-            $"{nameof(AnnualIncome)}: {AnnualIncome}";
+            $"{nameof(AnnualIncome)}: {AnnualIncome.ToString("#,#0")}";
     }
 }
