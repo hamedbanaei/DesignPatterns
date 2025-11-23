@@ -70,7 +70,7 @@
 
 
 // ********** ********** ********** ********** **********
-// Fecade Builder
+// Facade Builder
 // ********** ********** ********** ********** **********
 
 var pb = new BuilderFacets.PersonBuilder();
@@ -89,5 +89,5 @@ System.Console.WriteLine("This is the built person:");
 System.Console.WriteLine(person);
 
 // ********** ********** ********** ********** **********
-// / Fecade Builder
+// / Facade Builder
 // ********** ********** ********** ********** **********

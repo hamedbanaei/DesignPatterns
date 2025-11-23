@@ -1,6 +1,6 @@
 ﻿namespace BuilderFacets;
 
-// facade
+// Facade
 public class PersonBuilder
 {
     // The object we're going to build
