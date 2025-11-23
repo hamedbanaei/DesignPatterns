@@ -77,13 +77,13 @@ var pb = new BuilderFacets.PersonBuilder();
 
 BuilderFacets.Person person = pb
   .Lives
-    .At("123 London Road")
-    .In("London")
-    .WithPostcode("SW12BC")
+    .At("Some Avenue")
+    .In("Tehran")
+    .WithPostcode("145236")
   .Works
-    .At("Fabrikam")
-    .AsA("Engineer")
-    .Earning(123_000);
+    .At("Some Work Place")
+    .AsA("Chief Tech Officer")
+    .Earning(225_000_000);
 
 System.Console.WriteLine("This is the built person:");
 System.Console.WriteLine(person);
