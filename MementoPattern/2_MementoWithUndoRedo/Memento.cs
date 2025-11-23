@@ -1,0 +1,13 @@
+﻿using System.Runtime.InteropServices;
+
+namespace MementoWithUndoRedo;
+
+public class Memento
+{
+    public int Balance { get; }
+    
+    public Memento(int balance)
+    {
+        Balance = balance;
+    }
+}
