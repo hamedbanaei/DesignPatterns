@@ -52,17 +52,42 @@
 
 
 // ********** ********** ********** ********** **********
-// Life Without Builder
+// Fluent Builder
 // ********** ********** ********** ********** **********
 
-var me = Rgi.Person.New
-        .Called("Hamed")
-        .WorksAsA("CTO")
-        .Born(DateTime.UtcNow)
-        .Build();
+//var me = Rgi.Person.New
+//        .Called("Hamed")
+//        .WorksAsA("CTO")
+//        .Born(DateTime.UtcNow)
+//        .Build();
 
-Console.WriteLine(me);
+//Console.WriteLine(me);
 
 // ********** ********** ********** ********** **********
-// Life Without Builder
+// / Fluent Without Builder
+// ********** ********** ********** ********** **********
+
+
+
+// ********** ********** ********** ********** **********
+// Fecade Builder
+// ********** ********** ********** ********** **********
+
+var pb = new BuilderFacets.PersonBuilder();
+
+BuilderFacets.Person person = pb
+  .Lives
+    .At("123 London Road")
+    .In("London")
+    .WithPostcode("SW12BC")
+  .Works
+    .At("Fabrikam")
+    .AsA("Engineer")
+    .Earning(123_000);
+
+System.Console.WriteLine("This is the built person:");
+System.Console.WriteLine(person);
+
+// ********** ********** ********** ********** **********
+// Fecade Builder
 // ********** ********** ********** ********** **********
