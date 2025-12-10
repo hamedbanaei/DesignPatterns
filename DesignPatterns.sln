@@ -38,6 +38,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "MementoPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "Solid\DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{26812EC9-995D-43A1-852E-302321466784}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern", "PrototypePattern\PrototypePattern.csproj", "{0BEBEE1D-DADC-402F-A675-8110E6BD1D3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -100,6 +102,10 @@ Global
 		{26812EC9-995D-43A1-852E-302321466784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26812EC9-995D-43A1-852E-302321466784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26812EC9-995D-43A1-852E-302321466784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEBEE1D-DADC-402F-A675-8110E6BD1D3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEBEE1D-DADC-402F-A675-8110E6BD1D3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEBEE1D-DADC-402F-A675-8110E6BD1D3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEBEE1D-DADC-402F-A675-8110E6BD1D3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
