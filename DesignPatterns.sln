@@ -36,6 +36,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "Iterator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MementoPattern", "MementoPattern\MementoPattern.csproj", "{A183AD8A-50D5-44F1-94F8-6AC834813229}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInversionPrinciple", "Solid\DependencyInversionPrinciple\DependencyInversionPrinciple.csproj", "{26812EC9-995D-43A1-852E-302321466784}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -94,6 +96,10 @@ Global
 		{A183AD8A-50D5-44F1-94F8-6AC834813229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A183AD8A-50D5-44F1-94F8-6AC834813229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A183AD8A-50D5-44F1-94F8-6AC834813229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26812EC9-995D-43A1-852E-302321466784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26812EC9-995D-43A1-852E-302321466784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26812EC9-995D-43A1-852E-302321466784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26812EC9-995D-43A1-852E-302321466784}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +109,7 @@ Global
 		{70AA0A17-8462-43B7-88AB-F60CEF83AEF7} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{1D7BB399-82E7-437A-B56F-5EC60A5AFDCA} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{AEA9996D-84C1-41EA-9EFA-98E9A777DABE} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{26812EC9-995D-43A1-852E-302321466784} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DDFAFAC8-6C19-4CD6-83E6-0373D7A26904}
