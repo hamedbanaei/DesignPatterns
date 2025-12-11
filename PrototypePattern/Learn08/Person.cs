@@ -25,9 +25,7 @@ public class Person : System.Object, IPrototype
 
 	public void ShowInfo()
 	{
-		System.Console.WriteLine("\n\r**************************************************\n\r");
-		System.Console.WriteLine("I'm {0} and {1} years old.", FullName, Age);
-		System.Console.WriteLine("\n\r**************************************************\n\r");
+		System.Console.WriteLine($"I'm {FullName} and {Age} years old.");
 	}
 
 	public object Clone()
