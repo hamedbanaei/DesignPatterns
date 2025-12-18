@@ -16,7 +16,7 @@ public class Research
 
     public Research(IRelationshipBrowser browser)
     {
-        foreach (var p in browser.FindAllChildrenOf("John"))
+        foreach (var p in browser.FindAllChildrenOf("Kourosh"))
         {
             System.Console.WriteLine($"John has a child called {p.Name}");
         }
