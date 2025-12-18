@@ -3,9 +3,9 @@
 
 using DependencyInversionPrinciple;
 
-var parent = new Person { Name = "John" };
-var child1 = new Person { Name = "Chris" };
-var child2 = new Person { Name = "Matt" };
+var parent = new Person { Name = "Kourosh" };
+var child1 = new Person { Name = "Bardia" };
+var child2 = new Person { Name = "Atoosa" };
 
 // low-level module
 var relationships = new Relationships();

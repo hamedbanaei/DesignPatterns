@@ -14,7 +14,7 @@ public class Relationships : IRelationshipBrowser
         relations.Add((child, Relationship.Child, parent));
     }
 
-    public List<(Person, Relationship, Person)> Relations => relations;
+    //public List<(Person, Relationship, Person)> Relations => relations;
 
     public IEnumerable<Person> FindAllChildrenOf(string name)
     {
