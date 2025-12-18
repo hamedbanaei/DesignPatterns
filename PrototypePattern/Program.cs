@@ -155,9 +155,7 @@ P1.ShowInfo();
 
 //Person P1 = new Person("Hamed Banaei", 43);
 //Factory F1 = new Factory("Iran Khodro", P1);
-//// **************************************************
 
-//// **************************************************
 //Factory F2 = F1.DeepCopy();
 
 //F2.Name = "Pars Khodro";
@@ -231,7 +229,7 @@ P1.ShowInfo();
 // Learn10: Binary Serialization. (Obsolete)
 // ********** ********** ********** ********** **********
 
-// Note: Take a look at project file.
+//// Note: Take a look at project file.
 //using Learn10;
 
 //System.Collections.ArrayList oPeople1 =
