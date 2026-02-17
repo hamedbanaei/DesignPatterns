@@ -57,15 +57,15 @@
             // 
             this.myErrorProvider.ContainerControl = this;
             // 
-            // EmployeeForm
+            // BaseForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(391, 262);
             this.Controls.Add(this.txtFullName);
             this.Controls.Add(this.lblFullName);
-            this.Name = "EmployeeForm";
-            this.Text = "EmployeeForm";
+            this.Name = "BaseForm";
+            this.Text = "BaseForm";
             this.Controls.SetChildIndex(this.lblFullName, 0);
             this.Controls.SetChildIndex(this.txtFullName, 0);
             ((System.ComponentModel.ISupportInitialize)(this.myErrorProvider)).EndInit();
