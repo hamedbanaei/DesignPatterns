@@ -1,21 +1,32 @@
+using Microsoft.VisualBasic;
+
 namespace ObserverPattern;
 
 public partial class SubjectForm : System.Windows.Forms.Form, ISubject
 {
-    public SubjectForm()
-    {
-        InitializeComponent();
-    }
+	public SubjectForm()
+	{
+		InitializeComponent();
+	}
 
 	private void SubjectForm_Load(object sender, System.EventArgs e)
 	{
 		TextObserverForm frm;
 
-		for (int intIndex = 0; intIndex < 9; intIndex++)
+		int intLeft = 25;
+
+		for (int intIndex = 0; intIndex < 5; intIndex++)
 		{
 			frm = new TextObserverForm(this);
+			
+			frm.Top = 25;
+			frm.Left = intLeft + (intIndex * frm.Width);
+			frm.StartPosition = FormStartPosition.Manual;
+			
 			frm.Show();
 		}
+
+		txtData.Focus();
 	}
 
 	private System.Collections.Generic.List<IObserver> _myObservers;
