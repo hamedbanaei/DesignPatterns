@@ -1,1 +1,2 @@
-﻿global using static System.Console;
+﻿global using BridgePattern;
+global using static System.Console;

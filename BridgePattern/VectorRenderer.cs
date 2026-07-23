@@ -1,9 +1,7 @@
-﻿namespace BridgePattern;
-
-public class VectorRenderer : IRenderer
+﻿public class VectorRenderer : IRenderer
 {
-	public void RenderCircle(float radius)
+	public void Render(Shape shape)
 	{
-		WriteLine($"Drawing a circle of radius {radius} with vector drawing method.");
+		WriteLine($"Drawing the {shape.Name} with vector drawing method.");
 	}
 }

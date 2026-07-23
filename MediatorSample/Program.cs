@@ -9,7 +9,7 @@ room.Join(kourosh);
 room.Join(dariush);
 
 kourosh.Say("hi room");
-dariush.Say("oh, hey john");
+dariush.Say("oh, hey kourosh");
 
 var bardia = new Person("Bardia");
 room.Join(bardia);

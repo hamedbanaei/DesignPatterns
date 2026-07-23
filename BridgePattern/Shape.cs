@@ -11,6 +11,14 @@ public abstract class Shape
 		this.renderer = renderer;
 	}
 
+	public string Name 
+	{
+		get
+		{
+			return this.GetType().Name;
+		}
+	}
+
 	public abstract void Draw();
 	public abstract void Resize(float factor);
 }

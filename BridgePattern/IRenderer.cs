@@ -2,5 +2,5 @@
 
 public interface IRenderer
 {
-	void RenderCircle(float radius);
+	void Render(Shape shape);
 }

@@ -1,9 +1,7 @@
-﻿namespace BridgePattern;
-
-public class RasterRenderer : IRenderer
+﻿public class RasterRenderer : IRenderer
 {
-	public void RenderCircle(float radius)
+	public void Render(Shape shape)
 	{
-		WriteLine($"Drawing pixels for circle of radius {radius} with raster drawing method.");
+		WriteLine($"Drawing pixels for the {shape.Name} with raster drawing method.");
 	}
 }

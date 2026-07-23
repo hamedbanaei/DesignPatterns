@@ -20,6 +20,15 @@ public class ChatRoom
 		people.Add(p);
 	}
 
+	public void Leave(Person p)
+	{
+		string joinMsg = $"{p.Name} leaves the chat";
+		Broadcast("room", joinMsg);
+
+		p.Room = this;
+		people.Remove(p);
+	}
+
 	public void Message(string source, string destination, string message)
 	{
 		people.FirstOrDefault(p => p.Name == destination)?.Receive(source, message);

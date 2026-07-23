@@ -11,7 +11,7 @@ public class Circle : Shape
 
 	public override void Draw()
 	{
-		renderer.RenderCircle(radius);
+		renderer.Render(this);
 	}
 
 	public override void Resize(float factor)
