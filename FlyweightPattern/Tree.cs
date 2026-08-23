@@ -2,7 +2,7 @@
 
 /// <summary>
 /// CONTEXT
-/// Stores Unique / Extrinsic State
+/// Stores Unique / Extrinsic (بیرونی) State
 /// </summary>
 public sealed class Tree
 {

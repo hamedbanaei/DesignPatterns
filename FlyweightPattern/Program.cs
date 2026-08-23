@@ -8,7 +8,7 @@ var factory = new TreeTypeFactory();
 var oak = factory.GetTreeType(
 	name: "Oak",
 	color: "Green",
-	texture: "OakTexture"
+	texture: "OakTexture" 
 );
 
 // درخت کاج

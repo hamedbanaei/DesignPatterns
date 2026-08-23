@@ -2,7 +2,7 @@
 
 /// <summary>
 /// FLYWEIGHT
-/// Shared / Intrinsic State
+/// Shared / Intrinsic (ذاتی) State
 /// </summary>
 public sealed class TreeType
 {
@@ -10,6 +10,7 @@ public sealed class TreeType
 
 	public string Color { get; }
 
+	/// Imagine a picture as texture, I mean it gives a significant amount of RAM!
 	public string Texture { get; }
 
 	internal TreeType(string name, string color, string texture)

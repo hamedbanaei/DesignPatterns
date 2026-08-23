@@ -2,7 +2,7 @@
 
 /// <summary>
 /// FLYWEIGHT FACTORY
-/// Creates and Reuses Flyweights
+/// Creates and Reuses Flyweights (Shared States)
 /// </summary>
 public sealed class TreeTypeFactory
 {
