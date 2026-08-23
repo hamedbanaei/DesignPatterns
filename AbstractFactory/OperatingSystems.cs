@@ -2,6 +2,6 @@
 
 public enum OperatingSystems : byte
 {
-	Windows = 1,
-	MacOS = 2,
+	MacOS = 1,
+	Windows = 2,
 }

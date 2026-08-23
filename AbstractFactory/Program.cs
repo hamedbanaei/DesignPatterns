@@ -1,10 +1,7 @@
-﻿using AbstractFactory;
-using static System.Console;
+﻿WriteLine("Which platform?");
 
-WriteLine("Which platform?");
-
-WriteLine("1 - Windows");
-WriteLine("2 - macOS");
+WriteLine("1 - macOS");
+WriteLine("2 - Windows");
 
 var choice = ReadLine();
 
@@ -17,8 +14,8 @@ WriteLine("Abstract Factory without using of Factory Builder");
 {
 	IUIFactory factory = choice switch
 	{
-		"2" => new MacUIFactory(),
-		"1" => new WindowsUIFactory(),
+		"1" => new MacUIFactory(),
+		"2" => new WindowsUIFactory(),
 		_ => throw new InvalidOperationException("Unsupported platform"),
 	};
 
