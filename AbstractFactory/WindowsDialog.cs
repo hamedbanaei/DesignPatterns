@@ -4,6 +4,6 @@ public class WindowsDialog : IDialog
 {
 	public void Show()
 	{
-		Console.WriteLine("🚀 Showing a Windows Dialog");
+		Console.WriteLine("# Showing a Windows Dialog");
 	}
 }
