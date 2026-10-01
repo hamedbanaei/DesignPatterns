@@ -5,7 +5,6 @@
 // ********** ********** ********** ********** **********
 
 {
-
 	var inventory = new InventoryService();
 	var payment = new PaymentService();
 	var shipping = new ShippingService();

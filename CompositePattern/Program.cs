@@ -31,6 +31,12 @@ var root = new Folder("MyComputer")
 					)
 					.Add(
 						new CompositePattern.File(
+							"Hamed Banaei.jpg",
+							18_500_000
+						)
+					)
+					.Add(
+						new CompositePattern.File(
 							"Family.png",
 							4_200_000
 						)

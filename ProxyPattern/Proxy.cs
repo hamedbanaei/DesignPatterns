@@ -3,7 +3,7 @@
 /// <summary>
 /// The Proxy has an interface identical to the RealSubject.
 /// </summary>
-class Proxy : ISubject
+public class Proxy : ISubject
 {
 	private RealSubject _realSubject;
 

@@ -12,6 +12,20 @@ public class ImageProxy : IImage
 
 	public void Display()
 	{
+		// Oldest Way
+		//if (_realImage == null)
+		//{
+		//	_realImage = new RealImage(_fileName);
+		//}
+		// / Oldest Way
+
+		// Old Way - Pattern Matching
+		//if (_realImage is null)
+		//{
+		//	_realImage = new RealImage(_fileName);
+		//}
+		// / Old Way - Pattern Matching
+
 		// Create the real object only when needed
 		_realImage ??= new RealImage(_fileName);
 
