@@ -64,6 +64,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern", "FacadePatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadeSample", "FacadeSample\FacadeSample.csproj", "{9C075FC3-592C-4B7D-B472-2A684B913C11}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyPattern", "ProxyPattern\ProxyPattern.csproj", "{AFCD8566-E463-4A15-B797-65D04CB0BC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxySample", "ProxySample\ProxySample.csproj", "{9E9CC042-37BB-4CA3-AFFA-0104BEFF52D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -178,6 +182,14 @@ Global
 		{9C075FC3-592C-4B7D-B472-2A684B913C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C075FC3-592C-4B7D-B472-2A684B913C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C075FC3-592C-4B7D-B472-2A684B913C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCD8566-E463-4A15-B797-65D04CB0BC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCD8566-E463-4A15-B797-65D04CB0BC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCD8566-E463-4A15-B797-65D04CB0BC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCD8566-E463-4A15-B797-65D04CB0BC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9CC042-37BB-4CA3-AFFA-0104BEFF52D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9CC042-37BB-4CA3-AFFA-0104BEFF52D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9CC042-37BB-4CA3-AFFA-0104BEFF52D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9CC042-37BB-4CA3-AFFA-0104BEFF52D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

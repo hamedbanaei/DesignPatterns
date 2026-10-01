@@ -110,3 +110,11 @@ public struct MultiFunctionMachine : IMultiFunctionDevice
 		Scanner.Scan(document);
 	}
 }
+
+class Program
+{
+	static void Main()
+	{
+		System.Console.WriteLine("Please see the code.");
+	}
+}
